@@ -6,7 +6,7 @@
  ```bash run_script.sh ```
  
 The execution command generates an ‘output.txt’ file, which records the execution times for both serial and parallel computations, along with their respective parameters.
-Upon convergence, the resulting matrices are stored in ‘ser_<Matrix Size>.txt’ for serial execution and ‘par_<Num of Iterations>.txt’ for parallel execution.
+Upon convergence, the resulting matrices are stored in ‘ser_<Matrix Size>.txt’ for serial execution and ‘par_<Matrix Size>.txt’ for parallel execution.
 Additionally, the final heat maps are visualized using GNU plot files, named ‘serial_<Matrix Size>.gp’ and ‘parallel_<Matrix Size>.gp’ for serial and parallel computations respectively. 
 # Visualisation
 ``` gnuplot --persist <filename>.gp  ```
