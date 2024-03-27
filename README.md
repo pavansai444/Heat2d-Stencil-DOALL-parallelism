@@ -25,4 +25,4 @@ Use this command to Visualize the gnu plot maps. Replace <filename> with the act
 | 500      | 40.586021       | 35.525296     |
 | 1000     | 164.265472      | 157.228200    |
 | 5000     | 4021.034153     | 3312.206442   |
-| 10000    | text1           | text2         |
+| 10000    | 14316.117066           | 11023.328436         |
